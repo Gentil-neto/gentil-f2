@@ -19,7 +19,7 @@ Neste perfil do GitHub, você encontrará uma variedade de projetos e recursos r
 - Se você tiver alguma dúvida ou sugestão sobre qualquer um dos meus projetos, fique à vontade para abrir uma issue ou enviar um pull request.
 
 ## Como Entrar Em Contato
-Você pode entrar em contato comigo através do meu e-mail [gentil.neto@fatec.sp.gov.br](mailto:gentil.neto@fatec.sp.gov.br) ou me encontrar no [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin/).
+Você pode entrar em contato comigo através do meu e-mail [gentil.neto@fatec.sp.gov.br](mailto:gentil.neto@fatec.sp.gov.br) ou me encontrar no [LinkedIn](https://br.linkedin.com/in/gentiln).
 
 ## Obrigado Por Visitar!
 Agradeço por explorar meu perfil no GitHub. Espero que você encontre algo útil ou interessante em meus projetos. Não hesite em entrar em contato se precisar de alguma ajuda ou informação adicional. 😊
